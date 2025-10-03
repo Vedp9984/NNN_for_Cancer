@@ -1,5 +1,3 @@
- Database Schema (v1.0.0)
--- PostgreSQL 14+
 
 -- ================= USERS & AUTH =================
 CREATE TABLE users (
